@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NoteKeeperApp</string>
+    <string name="add_note">Add Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="title_hint">Enter note title</string>
+    <string name="content_hint">Enter note content</string>
+    <string name="delete_confirmation">Are you sure you want to delete this note?</string>
+    <string name="note_saved">Note saved successfully</string>
+    <string name="note_updated">Note updated successfully</string>
+    <string name="note_deleted">Note deleted successfully</string>
+    <string name="empty_notes">No notes yet. Tap + to add one!</string>
+</resources>
